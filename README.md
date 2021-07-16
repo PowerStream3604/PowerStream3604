@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PowerStream3604
 - 👀 I’m interested in BlockChain and Binary Exploitation.
 - 🌱 I’m currently enjoying my life.
-- 💞️ I’m looking to collaborate on ethereum about creating Dapps and proposing new eip and erc
+- 💞️ I’m love to collaborate on ethereum about creating Dapps and proposing new eip and erc
 - 📫 You can reach me by giving me an email to : helloyongjun3604@gmail.com
 - Hope you have a wonderful day.
 <!---
